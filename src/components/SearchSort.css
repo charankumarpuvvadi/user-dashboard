@@ -1,0 +1,17 @@
+.search-sort-container {
+    margin-bottom: 20px;
+  }
+  
+  .search-sort-container input, 
+  .search-sort-container select {
+    padding: 10px;
+    font-size: 1rem;
+    margin-right: 10px;
+    border-radius: 5px;
+    border: 1px solid #ddd;
+  }
+  
+  .search-sort-container input {
+    width: 250px;
+  }
+  
